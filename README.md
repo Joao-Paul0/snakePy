@@ -4,4 +4,4 @@
 
 ```bash
 # clone this repository
-git clone <git@github.com:Joao-Paul0/snakePy.git>
+git clone git@github.com:Joao-Paul0/snakePy.git

@@ -1,6 +1,6 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img alt="Readme" title="Readme" src="./Animation.gif"/>
-</h1>
+</h1> -->
 
 ```bash
 # clone this repository

@@ -15,6 +15,6 @@ git clone git@github.com:Joao-Paul0/snakePy.git
 
 ## 🚀 Technologies
 
-This project was developed with the following technology:
+Este projeto foi desenvolvido com a seguinte tecnologia:
 
 - ✔️ [Python](https://www.python.org/) 🐍

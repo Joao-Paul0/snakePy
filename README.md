@@ -1,12 +1,12 @@
 # Snake Game
 
-Para dar certo a aplicação, você só precisa instalar a biblioteca turtle:
+To make the application work, you just need to install the turtle library:
 
 ```bash
 pip install PythonTurtle
 ```
 
-Tenta aperfeiçoar este projeto, faça um clone:
+Try to improve this project, make a clone:
 
 ```bash
 # clone this repository
@@ -15,6 +15,6 @@ git clone git@github.com:Joao-Paul0/snakePy.git
 
 ## 🚀 Technologies
 
-Este projeto foi desenvolvido com a seguinte tecnologia:
+This project was developed with the following technology:
 
 - ✔️ [Python](https://www.python.org/) 🐍
